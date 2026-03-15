@@ -20,8 +20,16 @@ specs:
   release: '2025-03-05'
 roms: 
   - 
+    rom-name: '/e/os'
+    rom-support: True
+    rom-state: 'Unofficial'
+    android-version: '16'
+    rom-notes: ''
+    rom-webpage: 'https://e.foundation/e-os/'
+    phone-webpage: 'https://xdaforums.com/t/rom-unofficial-a16-e-os-nothing-3a-3a-pro-asteroids.4782276/'
+  - 
     rom-name: 'crDroid'
-    rom-support: false
+    rom-support: True
     rom-state: 'Unofficial'
     android-version: '16'
     rom-notes: ''
@@ -29,7 +37,7 @@ roms:
     phone-webpage: 'https://sourceforge.net/projects/eosbuildsronnz98/files/OtherCustomROMS/crDroid/crDroidAndroid-16.0-20251126-asteroids-v12.3.zip/download'
   - 
     rom-name: 'LunarisAosp'
-    rom-support: false
+    rom-support: True
     rom-state: 'Unofficial'
     android-version: '16'
     rom-notes: ''
