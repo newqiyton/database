@@ -24,7 +24,7 @@ roms:
     rom-support: True
     rom-state: 'Unofficial'
     android-version: '16'
-    rom-notes: ''
+    rom-notes: 'Dev: SaalimQuadri'
     rom-webpage: 'https://e.foundation/e-os/'
     phone-webpage: 'https://xdaforums.com/t/rom-unofficial-a16-e-os-nothing-3a-3a-pro-asteroids.4782276/'
   - 
@@ -48,7 +48,7 @@ roms:
     rom-support: true
     rom-state: 'Official'
     android-version: '16'
-    rom-notes: ''
+    rom-notes: 'Dev: ShantanuPC'
     rom-webpage: 'https://projectinfinity-x.com/'
     phone-webpage: 'https://projectinfinity-x.com/downloads/asteroids'
   - 
@@ -62,13 +62,14 @@ roms:
   - 
 
 
-#recoveries: 
-#  - 
-#    recovery-name: 'OrangeFox'
-#    recovery-support: true
-#    recovery-state: 'Unofficial'
-#    recovery-webpage: 'https://'
-#    device-webpage: ''
+recoveries: 
+  - 
+    recovery-name: 'OrangeFox'
+    recovery-support: true
+    recovery-state: 'Unofficial'
+    recovery-webpage: 'https://orangefox.download'
+    recovery-notes: 'Dev: Ubuntuify'
+    device-webpage: 'https://xdaforums.com/t/recovery-unofficial-orangefox-recovery-project-ofrp-for-nothing-phone-3a-asteroids.4779760/'
 
     recovery-name: 'TWRP'
     recovery-support: true
